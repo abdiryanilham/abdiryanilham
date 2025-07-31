@@ -40,9 +40,9 @@ Right now, I'm focused on learning **Front-End Development** 💻 — from desig
 ---
 
 <div align="center">
-
+---
 ## 💻 Tech Stack (Grouped by Category)
-
+---
 ### ⚙️ Programming Languages
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -50,6 +50,7 @@ Right now, I'm focused on learning **Front-End Development** 💻 — from desig
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+--
 ### 🧱 Frameworks / Libraries
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -59,16 +60,19 @@ Right now, I'm focused on learning **Front-End Development** 💻 — from desig
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
+--
 ### ☁️ Backend & Services
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
+--
 ### 🗄️ Databases
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+--
 ### 🎨 UI/UX Design
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -95,45 +99,3 @@ Right now, I'm focused on learning **Front-End Development** 💻 — from desig
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
 </p>
-
----
-
-## 👁️‍🗨️ Visitor Count
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=abdiryanilham&icon=6&color=1" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdiryanilham&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false" alt="Abdiryan's GitHub Stats" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abdiryanilham&theme=vue-dark&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiryanilham&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="60%" />
-</p>
-
----
-
-## ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Dev Quote" />
-</p>
-
----
-
-## 👁️‍🗨️ Visitor Count
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=abdiryanilham&icon=6&color=1" alt="Visitor Count" />
-  </a>
-</p>
-
-
