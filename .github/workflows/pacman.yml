@@ -1,7 +1,29 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdiryanilham/abdiryanilham/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdiryanilham/abdiryanilham/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abdiryanilham/abdiryanilham/output/pacman-contribution-graph.svg">
-</picture>
+name: Generate Pacman Contribution Graph
 
-###
+on:
+  schedule:
+    - cron: "0 0 * * *"  # setiap hari
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate SVG
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman SVG
+        uses: yoshi389111/github-contribution-graph-action@main
+        with:
+          mode: pacman
+          output_dir: ./output
+          dark: true
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add output/*
+          git commit -m "update pacman graph" || echo "No changes to commit"
+          git push
