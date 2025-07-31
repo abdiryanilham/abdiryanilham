@@ -53,10 +53,14 @@ I'm currently a student at **SMK Negeri 1 Bangsri** 🎓, passionate about the w
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=abdiryanilham&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abdiryanilham&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdiryanilham&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdiryanilham&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false" alt="Abdiryan's GitHub Stats" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=abdiryanilham&theme=vue-dark&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiryanilham&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="60%" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
