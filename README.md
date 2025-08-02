@@ -116,7 +116,12 @@ Right now, I'm focused on learning **Front-End Development** 💻 — from desig
 ###
 
 <p align="center">Pacman</p>
-![Pacman Graph](https://raw.githubusercontent.com/abdiryanilham/abdiryanilham/main/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdiryanilham/abdiryanilham/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdiryanilham/abdiryanilham/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abdiryanilham/abdiryanilham/output/pacman-contribution-graph.svg">
+</picture>
 
+###
 
 ###
