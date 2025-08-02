@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+https://pin.it/71ZrveG05
 <p align="center">
   <img src="img/github-header-image.png" alt="abdiryan" />
 </p>
