@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://imgur.com/a/byLHqVB" width="300"/>
+<img src="https://imgur.com/iG3Ln6v.gif" width="300"/>
 
 <p align="center">
   <img src="img/github-header-image.png" alt="abdiryan" />
