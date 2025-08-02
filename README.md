@@ -116,5 +116,7 @@ Right now, I'm focused on learning **Front-End Development** 💻 — from desig
 ###
 
 <p align="center">Pacman</p>
+![Pacman Graph](https://raw.githubusercontent.com/abdiryanilham/abdiryanilham/main/output/github-contribution-grid-snake.svg)
+
 
 ###
