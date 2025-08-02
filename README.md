@@ -123,5 +123,3 @@ Right now, I'm focused on learning **Front-End Development** 💻 — from desig
 </picture>
 
 ###
-
-###
