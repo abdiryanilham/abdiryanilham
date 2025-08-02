@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 -->
 -----
 <p align="center">
-  <img src="https://imgur.com/ssrnsei.gif" width="1000"/>
+  <img src="img/github-header-image.png" alt="abdiryan" />
 </p>
 
 -----
 
 <p align="center">
-  <img src="img/github-header-image.png" alt="abdiryan" />
+  <img src="https://imgur.com/ssrnsei.gif" width="1000"/>
 </p>
 
 ---
