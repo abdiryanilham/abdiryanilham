@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://imgur.com/ssrnsei.gif" width="600"/>
+  <img src="https://imgur.com/ssrnsei.gif" width="900"/>
 </p>
 <p align="center">
   <img src="img/github-header-image.png" alt="abdiryan" />
